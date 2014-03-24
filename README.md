@@ -1,7 +1,7 @@
 # AKB2048
 A modification of [gabrielcirulli's 2048](https://github.com/gabrielecirulli/2048) based off a dumb concept I saw on Twitter.
 
-[Play it here!](http://gabrielecirulli.github.io/2048/)
+[Play it here!](http://www.rabuko.me/akb2048/)
 
 ### Screenshot
 
